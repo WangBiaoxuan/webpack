@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <h1>can this loaded my vue-cli --^^-- test by geek</h1>
     <img src="./assets/logo.png">
     {{#router}}
     <router-view/>
